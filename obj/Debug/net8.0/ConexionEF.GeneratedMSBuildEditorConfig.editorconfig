@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConexionEF
+build_property.RootNamespace = ConexionEF
+build_property.ProjectDir = C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Marcas/MarcaAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXE1hcmNhQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Marcas/MarcaDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXE1hcmNhRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Marcas/MarcaEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXE1hcmNhRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Marcas/MarcaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXE1hcmNhTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/TipoProducto/TipoProductoAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1Y3RvXFRpcG9Qcm9kdWN0b0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/TipoProducto/TipoProductoDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1Y3RvXFRpcG9Qcm9kdWN0b0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/TipoProducto/TipoProductoEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1Y3RvXFRpcG9Qcm9kdWN0b0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/TipoProducto/TipoProductoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1Y3RvXFRpcG9Qcm9kdWN0b0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v3on95ynnd

@@ -1,0 +1,35 @@
+@model List<TipoProductoModel>
+
+<h1>Tipos de Productos</h1>
+
+<a class = "btn btn-primary" asp-action="TipoProductoAdd" asp-controller="TipoProducto">Agregar TipoProducto</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var m in Model)
+        {
+            <tr>
+                <td>@m.Nombre</td>
+                <td>@m.Descripcion</td>
+                <td>
+                    <a class="btn btn-secondary" 
+                    asp-action="TipoProductoEdit" 
+                    asp-controller="TipoProducto" 
+                    asp-route-id="@m.Id">Editar</a>
+
+                    <a class="btn btn-danger" 
+                    asp-action="TipoProductoDelete" 
+                    asp-controller="TipoProducto" 
+                    asp-route-id="@m.Id">Borrar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
