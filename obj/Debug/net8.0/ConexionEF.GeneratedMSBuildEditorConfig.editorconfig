@@ -42,8 +42,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FzXE1hcmNhTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Productos/ProductoAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3RvQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Productos/ProductoDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3RvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Productos/ProductoEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3RvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Productos/ProductoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXFByb2R1Y3RvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/_LinksLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rc0xvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Shared/_ValidationScriptsPartial.cshtml]
@@ -64,6 +84,38 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/TipoProducto/TipoProductoList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1Byb2R1Y3RvXFRpcG9Qcm9kdWN0b0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Tipos/TipoAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcVGlwb0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Tipos/TipoDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcVGlwb0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Tipos/TipoEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcVGlwb0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/Tipos/TipoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NcVGlwb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/User/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/User/Registry.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3RyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/User/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxfbGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aaron/Desktop/tareas y actividade UN/tetra 9/Programacion basica de Mobil/BDI-ConexionBD-main/Views/_ViewImports.cshtml]

@@ -134,3 +134,12 @@ C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mob
 C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\obj\Debug\net8.0\ConexionEF.pdb
 C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\obj\Debug\net8.0\ConexionEF.genruntimeconfig.cache
 C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\obj\Debug\net8.0\ref\ConexionEF.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Npgsql.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aaron\Desktop\tareas y actividade UN\tetra 9\Programacion basica de Mobil\BDI-ConexionBD-main\obj\Debug\net8.0\ConexionEF.sourcelink.json

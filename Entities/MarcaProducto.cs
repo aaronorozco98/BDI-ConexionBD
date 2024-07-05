@@ -17,5 +17,12 @@ namespace ConexionEF.Entities
         [StringLength(250)]
         public string Descripcion { get; set; }
 
+        public bool Activo { get; set; }
+        
+        public List<Producto> Productos { get; set; }
+        
+        
+        
+
     }
 }
